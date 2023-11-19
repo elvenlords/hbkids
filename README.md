@@ -3,7 +3,7 @@ An imagenet classifier based on tensorflow
 
 ## Installation of needed libraries
 
-- Fedora
+### Fedora
 
 
 `sudo dnf install python3`
@@ -14,7 +14,7 @@ An imagenet classifier based on tensorflow
 
 `pip3 install tensorflow`  
 
-- Ubuntu (I have not tried this but should be something like this)
+### Ubuntu (I have not tried this but should be something like this)
 
 
 `sudo apt install python3`
