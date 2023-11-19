@@ -24,3 +24,9 @@ An imagenet classifier based on tensorflow
 
 
 `pip3 install tensorflow`
+
+### How to run the program
+Run this command in a linux terminal
+
+
+`python3 imagenet.py`
